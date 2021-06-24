@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaEnum_13/JavaEnum_13.iml" filepath="$PROJECT_DIR$/JavaEnum_13/JavaEnum_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaException_14/JavaException_14.iml" filepath="$PROJECT_DIR$/JavaException_14/JavaException_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaInnerClass_12/JavaInnerClass_12.iml" filepath="$PROJECT_DIR$/JavaInnerClass_12/JavaInnerClass_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOop_07/JavaOop_07.iml" filepath="$PROJECT_DIR$/JavaOop_07/JavaOop_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractice_Car/JavaPractice_Car.iml" filepath="$PROJECT_DIR$/JavaPractice_Car/JavaPractice_Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDynmic_11/TestDynmic_11.iml" filepath="$PROJECT_DIR$/TestDynmic_11/TestDynmic_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDynmic_16/TestDynmic_16.iml" filepath="$PROJECT_DIR$/TestDynmic_16/TestDynmic_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasic_03/javaBasic_03.iml" filepath="$PROJECT_DIR$/javaBasic_03/javaBasic_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasic_04/javaBasic_04.iml" filepath="$PROJECT_DIR$/javaBasic_04/javaBasic_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasic_05/javaBasic_05.iml" filepath="$PROJECT_DIR$/javaBasic_05/javaBasic_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBasic_06/javaBasic_06.iml" filepath="$PROJECT_DIR$/javaBasic_06/javaBasic_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaExtend_10/javaExtend_10.iml" filepath="$PROJECT_DIR$/javaExtend_10/javaExtend_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaOop_08/javaOop_08.iml" filepath="$PROJECT_DIR$/javaOop_08/javaOop_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaStringPrint_09/javaStringPrint_09.iml" filepath="$PROJECT_DIR$/javaStringPrint_09/javaStringPrint_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaYuanRen.iml" filepath="$PROJECT_DIR$/.idea/javaYuanRen.iml" />
+    </modules>
+  </component>
+</project>

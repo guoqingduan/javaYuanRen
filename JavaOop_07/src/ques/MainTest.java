@@ -1,6 +1,6 @@
 package ques;
 
-public class Main {
+public class MainTest {
 
   static Elephant createElephant(int heightInCM) {
     System.out.printf("创建一个%d厘米高的大象！\n", heightInCM);
